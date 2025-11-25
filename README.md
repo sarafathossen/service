@@ -3,7 +3,7 @@ Users can browse various services, view detailed information, and interact throu
 The project includes dynamic routing, server-side data fetching, and an optimized design suitable for all devices.
 
 
-Setup & installation instructions:  git clone https://github.com/your-username/workly.git
+Setup & installation instructions:  git clone https://github.com/sarafathossen/service.git
 cd workly
 npm install
 
