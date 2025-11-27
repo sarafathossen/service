@@ -38,7 +38,7 @@ export default function Footer() {
         <div>
           <h3 className="text-lg font-semibold text-white mb-3">Contact</h3>
           <p className="text-gray-400 text-sm sm:text-base">📍 Satkhira, Bangladesh</p>
-          <p className="text-gray-400 text-sm sm:text-base">📞 +880 1700-000000</p>
+          <p className="text-gray-400 text-sm sm:text-base">📞 +8801750187656</p>
           <p className="text-gray-400 text-sm sm:text-base">📧 support@workly.com</p>
 
           <div className="flex gap-4 mt-4 text-lg sm:text-xl">
