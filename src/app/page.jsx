@@ -41,8 +41,9 @@ export default async function HomePage() {
       </section>
 
       {/* Services Card Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-4 sm:px-6 md:px-8 mt-10">
-        {data.slice(0, 6).map(service => (
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4 sm:px-6 md:px-8 mt-10">
+        
+        {data.slice(0, 8).map(service => (
           <ServiceCard
             key={service._id}
             service={service}
